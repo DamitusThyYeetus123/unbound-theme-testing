@@ -1,0 +1,14 @@
+{
+  "name": "Gradient Test Theme",
+  "id": "grad.test",
+  "type": "theme",
+  "main": "bundle.json",
+  "description": "A Test theme for gradients",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Damiuwu:3c",
+      "id": "640750090159652895"
+    }
+  ]
+}

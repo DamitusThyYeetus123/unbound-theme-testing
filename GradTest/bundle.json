@@ -1,9 +1,217 @@
 {
-  "semantic": {
-    "CHAT_BACKGROUND": {
-      "type": "color",
-      "value": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)"
+    "semantic": {
+        "CHAT_BACKGROUND": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "HEADER_PRIMARY": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "HEADER_SECONDARY": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "TEXT_NORMAL": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "TEXT_MUTED": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "INTERACTIVE_NORMAL": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "INTERACTIVE_HOVER": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "INTERACTIVE_ACTIVE": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "INTERACTIVE_MUTED": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "BACKGROUND_PRIMARY": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "CARD_PRIMARY_BG": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "BG_BASE_PRIMARY": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "BACKGROUND_SECONDARY": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "CARD_SECONDARY_BG": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "BG_BASE_SECONDARY": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "BACKGROUND_SECONDARY_ALT": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "BACKGROUND_TERTIARY": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "BG_BASE_TERTIARY": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "BACKGROUND_ACCENT": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "BACKGROUND_FLOATING": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "BACKGROUND_MOBILE_PRIMARY": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "BACKGROUND_MOBILE_SECONDARY": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "BACKGROUND_NESTED_FLOATING": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "BACKGROUND_MESSAGE_HOVER": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)",
+            "opacity": 0.02
+        },
+
+        "BACKGROUND_MODIFIER_HOVER": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)",
+            "opacity": 0.02
+        },
+
+        "BACKGROUND_MODIFIER_ACTIVE": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)",
+            "opacity": 0.08
+        },
+
+        "BACKGROUND_MODIFIER_SELECTED": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)",
+            "opacity": 0.04
+        },
+
+        "BACKGROUND_MODIFIER_ACCENT": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)",
+            "opacity": 1
+        },
+
+        "BACKGROUND_MENTIONED": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)",
+            "opacity": 0.37
+        },
+
+        "BACKGROUND_MENTIONED_HOVER": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)",
+            "opacity": 0.5
+        },
+
+        "SCROLLBAR_THIN_THUMB": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "SCROLLBAR_THIN_TRACK": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "SCROLLBAR_AUTO_THUMB": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "SCROLLBAR_AUTO_TRACK": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)",
+            "opacity": 0.1
+        },
+
+        "CHANNELTEXTAREA_BACKGROUND": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "CHANNELS_DEFAULT": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "TEXT_LINK": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        },
+
+        "KEYBOARD": {
+            "type": "color",
+            "value": "linear-gradient(to left top, blue, red)"
+        }
+    },
+    "type": "dark",
+    "background": {
+        "blur": 0.1,
+        "url": "https://i.imgur.com/Kfk07Ux.jpeg",
+        "opacity": 0
     }
-  },
-  "type": "dark"
 }
